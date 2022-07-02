@@ -1,7 +1,7 @@
 {
   "main.css": "/digital_marketing/static/css/main.fc0a15a4.chunk.css",
-  "main.js": "/digital_marketing/static/js/main.e28f07ad.chunk.js",
-  "main.js.map": "/digital_marketing/static/js/main.e28f07ad.chunk.js.map",
+  "main.js": "/digital_marketing/static/js/main.8c16304a.chunk.js",
+  "main.js.map": "/digital_marketing/static/js/main.8c16304a.chunk.js.map",
   "static/css/1.aecb86e4.chunk.css": "/digital_marketing/static/css/1.aecb86e4.chunk.css",
   "static/js/1.0f68e28d.chunk.js": "/digital_marketing/static/js/1.0f68e28d.chunk.js",
   "static/js/1.0f68e28d.chunk.js.map": "/digital_marketing/static/js/1.0f68e28d.chunk.js.map",
@@ -26,6 +26,6 @@
   "static/css/main.fc0a15a4.chunk.css.map": "/digital_marketing/static/css/main.fc0a15a4.chunk.css.map",
   "static/css/1.aecb86e4.chunk.css.map": "/digital_marketing/static/css/1.aecb86e4.chunk.css.map",
   "index.html": "/digital_marketing/index.html",
-  "precache-manifest.73d8f13ff1e1ebf1beb77916d42ae993.js": "/digital_marketing/precache-manifest.73d8f13ff1e1ebf1beb77916d42ae993.js",
+  "precache-manifest.167b8f463a2c3d615d54740e577e1d69.js": "/digital_marketing/precache-manifest.167b8f463a2c3d615d54740e577e1d69.js",
   "service-worker.js": "/digital_marketing/service-worker.js"
 }
