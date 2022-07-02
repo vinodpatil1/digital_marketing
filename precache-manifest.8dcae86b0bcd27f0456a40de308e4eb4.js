@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "45672af689439cfe9d51",
+    "revision": "024446e8b6a26e789506",
     "url": "/digital_marketing/static/css/main.fc0a15a4.chunk.css"
   },
   {
-    "revision": "45672af689439cfe9d51",
-    "url": "/digital_marketing/static/js/main.45672af6.chunk.js"
+    "revision": "024446e8b6a26e789506",
+    "url": "/digital_marketing/static/js/main.024446e8.chunk.js"
   },
   {
     "revision": "7c5841cb18b50857ce44",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/digital_marketing/static/media/contactus.ca24dadb.jpg"
   },
   {
-    "revision": "6b2ee131330eba043082f5790b31e457",
+    "revision": "dd7b1aec037b9830edf9744c7185fb34",
     "url": "/digital_marketing/index.html"
   }
 ];
