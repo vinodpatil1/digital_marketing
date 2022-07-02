@@ -1,10 +1,10 @@
 {
   "main.css": "/digital_marketing/static/css/main.fc0a15a4.chunk.css",
-  "main.js": "/digital_marketing/static/js/main.8c16304a.chunk.js",
-  "main.js.map": "/digital_marketing/static/js/main.8c16304a.chunk.js.map",
+  "main.js": "/digital_marketing/static/js/main.45672af6.chunk.js",
+  "main.js.map": "/digital_marketing/static/js/main.45672af6.chunk.js.map",
   "static/css/1.aecb86e4.chunk.css": "/digital_marketing/static/css/1.aecb86e4.chunk.css",
-  "static/js/1.0f68e28d.chunk.js": "/digital_marketing/static/js/1.0f68e28d.chunk.js",
-  "static/js/1.0f68e28d.chunk.js.map": "/digital_marketing/static/js/1.0f68e28d.chunk.js.map",
+  "static/js/1.7c5841cb.chunk.js": "/digital_marketing/static/js/1.7c5841cb.chunk.js",
+  "static/js/1.7c5841cb.chunk.js.map": "/digital_marketing/static/js/1.7c5841cb.chunk.js.map",
   "runtime~main.js": "/digital_marketing/static/js/runtime~main.64c46cf4.js",
   "runtime~main.js.map": "/digital_marketing/static/js/runtime~main.64c46cf4.js.map",
   "static/media/banner1.png": "/digital_marketing/static/media/banner1.64fdabf4.png",
@@ -26,6 +26,6 @@
   "static/css/main.fc0a15a4.chunk.css.map": "/digital_marketing/static/css/main.fc0a15a4.chunk.css.map",
   "static/css/1.aecb86e4.chunk.css.map": "/digital_marketing/static/css/1.aecb86e4.chunk.css.map",
   "index.html": "/digital_marketing/index.html",
-  "precache-manifest.167b8f463a2c3d615d54740e577e1d69.js": "/digital_marketing/precache-manifest.167b8f463a2c3d615d54740e577e1d69.js",
+  "precache-manifest.d62b3a4f54a54a8c375ffe03fb3b7070.js": "/digital_marketing/precache-manifest.d62b3a4f54a54a8c375ffe03fb3b7070.js",
   "service-worker.js": "/digital_marketing/service-worker.js"
 }
